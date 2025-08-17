@@ -1,0 +1,20 @@
+{
+    "name": "vladyslavnagornyi/base-poster",
+    "description": "Telegram Channel Poster",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladyslav Nahornyi",
+            "email": "highpassion90@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
